@@ -1,0 +1,16 @@
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.exe
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.deps.json
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.runtimeconfig.json
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.runtimeconfig.dev.json
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.dll
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\ref\EvilEye.dll
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\bin\Debug\net5.0\EvilEye.pdb
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.csproj.AssemblyReference.cache
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.AssemblyInfoInputs.cache
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.AssemblyInfo.cs
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.csproj.CoreCompileInputs.cache
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.dll
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\ref\EvilEye.dll
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.pdb
+C:\Users\Toraj\Desktop\DDOSER\EvilEye\EvilEye\obj\Debug\net5.0\EvilEye.genruntimeconfig.cache
